@@ -12,12 +12,11 @@ I'm a seasoned Lead Software Engineer based in Brampton, ON. With 7 years of exp
 |---------------|----------------|-----------------|
 | Node.js       | React          | AWS             |
 | Express.js    | JavaScript     | Azure           |
-| Django        | Next.js        | Google Cloud    |
+| REST          | Next.js        | Google Cloud    |
 | Prisma        | TypeScript     | Kubernetes      |
 | Mongoose      |                | Docker          |
 | GraphQL       |                | Redis           |
 | Socket.io     |                | Elasticsearch   |
-| REST          |                |                 |
 
 ## Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/manpreet-singh-sarao/)
