@@ -2,7 +2,7 @@
 
 I'm a seasoned Lead Software Engineer based in Brampton, ON. With 7 years of experience in IT business operations and custom procedure design for enterprise applications in social media, banking, and finance, I bring a wealth of knowledge and expertise to the table. I'm passionate about contributing to team success through diligence, attention to detail, and excellent organizational skills.
 
-### 🛠 Ask Me About
+### Ask Me About
 - Backend Development
 - Cloud Solutions
 - Agile Methodologies
