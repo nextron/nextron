@@ -1,6 +1,6 @@
 # Hi, I'm Manpreet Singh Sarao 👋
 
-I’m a Lead Software Engineer with 7 years of experience designing and delivering scalable enterprise applications in social media, banking, and finance. Based in Brampton, ON, I specialize in backend development, cloud solutions, and working within agile environments. I thrive on solving complex problems, optimizing system performance, and contributing to the success of cross-functional teams.
+I’m a Lead Software Engineer with 7 years of experience designing and delivering scalable enterprise applications in social media, banking, and finance. I specialize in backend development, cloud solutions, and working within agile environments. I thrive on solving complex problems, optimizing system performance, and contributing to the success of cross-functional teams.
 
 Throughout my career, I’ve worked on various projects, including developing survey engines, recognition systems, and marketplaces for enterprise applications. I’m passionate about building efficient, high-quality systems and mentoring junior developers to enhance team productivity.
 
