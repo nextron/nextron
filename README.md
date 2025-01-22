@@ -1,22 +1,26 @@
 # Hi, I'm Manpreet Singh Sarao 👋
 
-I'm a seasoned Lead Software Engineer based in Brampton, ON. With 7 years of experience in IT business operations and custom procedure design for enterprise applications in social media, banking, and finance, I bring a wealth of knowledge and expertise to the table. I'm passionate about contributing to team success through diligence, attention to detail, and excellent organizational skills.
+I’m a Lead Software Engineer with 7 years of experience designing and delivering scalable enterprise applications in social media, banking, and finance. Based in Brampton, ON, I specialize in backend development, cloud solutions, and working within agile environments. I thrive on solving complex problems, optimizing system performance, and contributing to the success of cross-functional teams.
+
+Throughout my career, I’ve worked on various projects, including developing survey engines, recognition systems, and marketplaces for enterprise applications. I’m passionate about building efficient, high-quality systems and mentoring junior developers to enhance team productivity.
 
 ## Ask Me About
 - Backend Development
-- Cloud Solutions
-- Agile Methodologies
+- Cloud Solutions (AWS, Azure, Google Cloud)
+- Scalable System Design & Architecture
+- Agile Methodologies & Continuous Delivery
+- Mentorship & Team Collaboration
 
 ## Languages and Tools
 
 ### Backend
 - Node.js
 - Express.js
-- REST
-- Prisma
-- Mongoose
+- RESTful APIs
 - GraphQL
 - Socket.io
+- Prisma
+- Mongoose
 
 ### Frontend
 - React
@@ -25,13 +29,28 @@ I'm a seasoned Lead Software Engineer based in Brampton, ON. With 7 years of exp
 - TypeScript
 
 ### Cloud
-- AWS
-- Azure
-- Google Cloud
+- AWS (EC2, Lambda, S3, SNS, SQS, Secrets Manager)
+- Azure (Key Vault, Kubernetes, Azure Functions, CDN)
+- Google Cloud (Firebase, Pub/Sub, Firestore, Cloud Storage)
 - Kubernetes
 - Docker
+
+### Databases & Caching
+- PostgreSQL
+- MongoDB
 - Redis
 - Elasticsearch
+
+### CI/CD & DevOps
+- GitHub Actions
+- Jenkins
+- Kubernetes
+- Docker
+
+## Highlights
+- Improved system performance by 75% through various optimizations.
+- Reduced survey submission data size by 75%, enhancing user experience and system performance.
+- Led cross-functional teams and mentored junior developers to boost team productivity.
 
 ## Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/manpreet-singh-sarao/)
