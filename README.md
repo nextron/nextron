@@ -1,22 +1,37 @@
-## Hi, I'm Manpreet Singh Sarao
+# Hi, I'm Manpreet Singh Sarao 👋
 
 I'm a seasoned Lead Software Engineer based in Brampton, ON. With 7 years of experience in IT business operations and custom procedure design for enterprise applications in social media, banking, and finance, I bring a wealth of knowledge and expertise to the table. I'm passionate about contributing to team success through diligence, attention to detail, and excellent organizational skills.
 
-### Ask Me About
+## Ask Me About
 - Backend Development
 - Cloud Solutions
 - Agile Methodologies
 
 ## Languages and Tools
-| Backend       | Frontend       | Cloud           |
-|---------------|----------------|-----------------|
-| Node.js       | React          | AWS             |
-| Express.js    | JavaScript     | Azure           |
-| REST          | Next.js        | Google Cloud    |
-| Prisma        | TypeScript     | Kubernetes      |
-| Mongoose      |                | Docker          |
-| GraphQL       |                | Redis           |
-| Socket.io     |                | Elasticsearch   |
+
+### Backend
+- Node.js
+- Express.js
+- REST
+- Prisma
+- Mongoose
+- GraphQL
+- Socket.io
+
+### Frontend
+- React
+- JavaScript
+- Next.js
+- TypeScript
+
+### Cloud
+- AWS
+- Azure
+- Google Cloud
+- Kubernetes
+- Docker
+- Redis
+- Elasticsearch
 
 ## Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/manpreet-singh-sarao/)
